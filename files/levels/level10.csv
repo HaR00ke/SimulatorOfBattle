@@ -1,0 +1,20 @@
+BELOW UNITS
+Money;80
+Shooter;319;61;;
+Shooter;318;525;;
+Shooter;321;418;;
+Shooter;322;128;;
+Sniper;518;63;;
+Sniper;518;526;;
+Sniper;511;293;;
+Shield;448.0;84.0;;
+ShieldUnit;478;114;;
+Shield;455.0;437.0;;
+ShieldUnit;485;467;;
+Fighter;320;205;;
+Fighter;320;342;;
+Provocateur;518;179;67;182;;
+Provocateur;510;382;75;399;;
+Decelerator;321;273;;
+Assasin;413;84;;
+Assasin;425;493;;
